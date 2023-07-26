@@ -1,0 +1,3 @@
+to add a tilemap, add a new folder into the tilemap, drag your tilemap png in, and define the tiles by the following shema in a .tilemap file
+
+[TILE_NAME] [X_COORDINATE] [Y_COORDINATE] [WIDTH] [HEIGHT]

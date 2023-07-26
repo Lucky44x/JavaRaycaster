@@ -1,0 +1,4 @@
+Entities are points in space which get rendered as their respective "sprites" meaning the image which is set in their config. The Image will be rendered as a billboard, meaning there is no front back or side
+
+Animations can be added in the anim folder by creating a new .a file
+(Apart from spritesheets and individual sprites, you can also use tiles from a tilemap, defined in the textures folder)

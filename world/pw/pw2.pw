@@ -1,0 +1,7 @@
+# Polywall (A wall made from at least 2 Points)
+
+texture: 2
+texture_tile: false
+
+point: 11 12.5
+point: 12 12.5

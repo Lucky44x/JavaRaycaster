@@ -1,0 +1,11 @@
+wall_flag 0 0 64 64
+wall 64 0 64 64
+wall_slime 128 0 64 64
+brick_white 192 0 64 64
+brick_blue 256 0 64 64
+brick_yellow 320 0 64 64
+wood 384 0 64 64
+stone 448 0 64 64
+barrel 512 0 64 64
+column 576 0 64 64
+lamp 640 0 64 64

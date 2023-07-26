@@ -1,0 +1,17 @@
+name: Goblin Idle
+
+# spritesheet / frames
+type: frames
+
+# General Settings (How many frames/sprites are there, how long does one sprite last)
+numFrames: 4
+frameTime: 0.001
+
+# Single Animation SpriteSheet
+# spriteSheet: -
+
+# Singular Frames
+frame: tilemap dungeon goblin_idle_anim_f0
+frame: tilemap dungeon goblin_idle_anim_f1
+frame: tilemap dungeon goblin_idle_anim_f2
+frame: tilemap dungeon goblin_idle_anim_f3

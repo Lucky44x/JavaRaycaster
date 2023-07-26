@@ -1,0 +1,7 @@
+# Polywall (A wall made from at least 2 Points)
+
+texture: 0
+
+point: 18 8
+point: 17 9
+point: 18 10

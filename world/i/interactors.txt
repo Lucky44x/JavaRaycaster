@@ -1,0 +1,1 @@
+Interactors are ceratin types of triggers which can interact with other things like polywalls or entities (For example an entity as a lever, which when pressed will move a poly wall which is controlled by a MOVER script)
